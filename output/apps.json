@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-09-16T03:55:07.175866Z",
+  "generated_at": "2026-09-16T04:15:05.273176Z",
   "app_count": 5320,
   "github_app_count": 4427,
   "github_projects_enriched": 0,
@@ -12,7 +12,7 @@
       "index_version": "v2",
       "status": "ok",
       "app_count": 4385,
-      "elapsed_seconds": 90.39
+      "elapsed_seconds": 93.89
     },
     {
       "name": "Guardian Project",
@@ -21,7 +21,7 @@
       "index_version": "v2",
       "status": "ok",
       "app_count": 16,
-      "elapsed_seconds": 2.06
+      "elapsed_seconds": 0.47
     },
     {
       "name": "IzzyOnDroid F-Droid Repo",
@@ -30,7 +30,7 @@
       "index_version": "v2",
       "status": "ok",
       "app_count": 1394,
-      "elapsed_seconds": 14.85
+      "elapsed_seconds": 2.69
     },
     {
       "name": "microG F-Droid repo",
@@ -39,7 +39,7 @@
       "index_version": "v2",
       "status": "ok",
       "app_count": 3,
-      "elapsed_seconds": 0.45
+      "elapsed_seconds": 0.81
     }
   ],
   "github_errors": [],
